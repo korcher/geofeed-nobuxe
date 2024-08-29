@@ -1,0 +1,4 @@
+# prefix,country_code,region_code,city,postal
+194.59.186.0/24,DE,DE-HE,Frankfurt,60313
+194.59.186.0/25,DE,DE-HE,Frankfurt,60313
+194.59.186.128/25,DE,DE-HE,Frankfurt,60313
